@@ -45,8 +45,8 @@ margin: 100px 190px;
     font-size: 16px;
 }
 /* plans style */
-.section-title{
-    text-align: center;
+.sections-title{
+    text-align:center;
     font-size: 30px;
 }
 .skills-container{
@@ -56,9 +56,21 @@ gap:80px
 }
 .skill-title{
 font-size: 30px;
-margin-left:-60px
-
+margin-left:-10px
 }
-.skill-discription{
-   
+
+.picture{
+margin-left: 80px;
+padding-bottom: 50px;
+padding-top: 30px;
+background-image: linear-gradient(rgb(49, 154, 42)green);
+}
+.contact{
+    padding: 130px 200px;
+    background: rgb(224, 183, 183);
+    display: flex;
+    gap: 250px;
+    
+    
+    text-align: left;
 }
